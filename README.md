@@ -49,7 +49,7 @@ POST http://localhost:3000/api/products - Add a new product
 GET http://localhost:3000/api/products/:id - Retrieve a product by its ID
 
 **Screenshots**
-Since XMysql doesn’t generate separate code files, I have included three screenshots to document the process:
+Since XMysql doesn’t generate separate code files, I have included below mentioned screenshots to document the process:
 
 **Screenshot of XMysql Command Execution:** Shows how I started the XMysql server.
 **Screenshot of Available API Endpoints:** Lists the generated API routes.
